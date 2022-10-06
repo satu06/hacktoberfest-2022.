@@ -1,3 +1,0 @@
-import qrcode
-img = qrcode.make("I love India")
-img.save("QRI.jpg")
